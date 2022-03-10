@@ -1,0 +1,54 @@
+
+.pic1{
+    width:80rem;
+}
+
+
+.icon{
+    display:block;
+    margin: auto;
+}
+
+
+.section1 .card{
+    border:0;
+}
+
+.section2{
+    margin:100px 0px;
+}
+
+.pic2{
+    width:75rem;
+}
+
+.hero{
+    margin:120px 0px;
+}
+
+
+.color{
+    color: darkorchid;
+    font-weight: bolder;
+}
+
+.card_para{
+    font-size:0.8rem;
+}
+
+a{
+    font-size:small;
+}
+
+a:hover{
+    color:black;
+}
+
+
+footer{
+    background-color:darkorchid;
+}
+
+.ftr_para{
+    font-size: 0.5rem;
+}
