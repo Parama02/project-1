@@ -1,8 +1,16 @@
 
+/* Hero section */
+
+.hero{
+    margin:120px 0px;
+}
+
 .pic1{
     width:80rem;
 }
 
+
+/* section 1 cards */
 
 .icon{
     display:block;
@@ -14,6 +22,9 @@
     border:0;
 }
 
+
+/* section2 */
+
 .section2{
     margin:100px 0px;
 }
@@ -22,10 +33,7 @@
     width:75rem;
 }
 
-.hero{
-    margin:120px 0px;
-}
-
+/* text styling */
 
 .color{
     color: darkorchid;
@@ -36,6 +44,8 @@
     font-size:0.8rem;
 }
 
+/* anchor */
+
 a{
     font-size:small;
 }
@@ -44,6 +54,7 @@ a:hover{
     color:black;
 }
 
+/* footer */
 
 footer{
     background-color:darkorchid;
